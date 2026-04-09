@@ -123,7 +123,7 @@
   "dependencies": {
     "@raycast/api": "^1.103.1",
     "@raycast/utils": "^2.2.1",
-    "axios": "^0.27.2",
+    "axios": "^1.13.5",
     "curl-string": "^1.1.1",
     "jsonpath-plus": "^10.3.0"
   },
