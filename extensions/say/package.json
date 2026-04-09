@@ -58,7 +58,7 @@
     "@raycast/api": "^1.102.5",
     "@raycast/utils": "^2.2.1",
     "bplist-parser": "^0.3.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "mac-say": "^0.3.3"
   },
   "devDependencies": {
