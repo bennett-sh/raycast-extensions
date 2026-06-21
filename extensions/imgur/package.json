@@ -42,8 +42,8 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.46.0",
-    "axios": "^1.8.4",
-    "form-data": "^4.0.0",
+    "axios": "^1.18.0",
+    "form-data": "^4.0.6",
     "imgur": "^2.2.0",
     "mime-types": "^2.1.35"
   },
