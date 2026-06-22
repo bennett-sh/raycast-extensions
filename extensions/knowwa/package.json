@@ -39,7 +39,7 @@
   "dependencies": {
     "@raycast/api": "^1.42.2",
     "@raycast/utils": "^1.4.10",
-    "axios": "^1.8.4",
+    "axios": "^1.16.0",
     "dayjs": "^1.11.6",
     "got": "^12.5.2"
   },
@@ -48,7 +48,7 @@
     "@types/react": "18.0.9",
     "@typescript-eslint/eslint-plugin": "^5.46.0",
     "@typescript-eslint/parser": "^5.46.0",
-    "eslint": "^7.32.0",
+    "eslint": "^10.5.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-react": "^7.31.11",
     "prettier": "^2.5.1",
