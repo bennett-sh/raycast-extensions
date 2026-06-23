@@ -69,7 +69,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.38.3",
-    "@raycast/utils": "^1.1.0",
+    "@raycast/utils": "^1.19.1",
     "axios": "^0.27.2",
     "hex-to-hsl": "^1.0.2",
     "hsl-to-hex": "^1.0.0",
@@ -78,7 +78,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
-    "eslint": "^7.32.0",
+    "eslint": "^10.5.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.5.1",
     "typescript": "^4.4.3"
